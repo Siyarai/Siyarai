@@ -35,5 +35,3 @@ I like understanding how things work — then building them.
 - OOP with Java & C++ (data structures, algorithms)
 - ROS 2 on Ubuntu — working toward hardware/software integration
 - Integrating AI models into robotic systems
-
-**Siyarai/Siyarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
