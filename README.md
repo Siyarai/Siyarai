@@ -1,7 +1,4 @@
-[profile-README.md](https://github.com/user-attachments/files/26964856/profile-README.md)
-## Hi there 👋
-
-<!--# Hey, I'm Şiyar 👋
+Hey, I'm Şiyar 👋
 
 AI Engineering student at Hacettepe University · Ankara, Turkey  
 I like understanding how things work — then building them.
